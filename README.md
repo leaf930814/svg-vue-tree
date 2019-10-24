@@ -1,4 +1,6 @@
-# svg-vue-tree
+# svg-vue-tree 
+
+[demo](https://raw.githubusercontent.com/leaf930814/svg-vue-tree/master/demo/1.jpg)
 
 ## Project setup
 ```
